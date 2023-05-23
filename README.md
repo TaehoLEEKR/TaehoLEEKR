@@ -44,12 +44,7 @@
  
    <br/>
    <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
-  <br/>
+
 
   #### 😃: This My Blog
 https://www.tistory.com/member/blog
