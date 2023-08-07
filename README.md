@@ -44,5 +44,4 @@
    <br/>
 
 
-  #### 😃: This My Blog
-https://www.tistory.com/member/blog
+  #### 😃: This My Blog [블로그 😃](https://ldh7728.tistory.com/)
