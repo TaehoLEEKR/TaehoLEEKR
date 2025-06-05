@@ -21,10 +21,10 @@
 
 ### ✨ Welcome to My GitHub Profile! ✨
 
-<a href="https://taeholeekr.com" target="_blank">
+[<a href="https://taeholeekr.com" target="_blank">
   <img src="https://img.shields.io/badge/My Blog-%231DA1F2.svg?&style=for-the-badge&logo=MyBlog&logoColor=white"/>
 </a>
-
+](https://taeholeekr.github.io/)
 ---
 
 ### 📋 MY SKILLS
