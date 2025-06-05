@@ -2,11 +2,28 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Daeho%20LEE%20GitHub&fontSize=50)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehoLEEKR&layout=compact)](https://github.com/TaehoLEEKR/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/TaehoLEEKR/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaehoLEEKR&layout=compact" alt="Top Langs">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=TaehoLEEKR&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🥇 Welcome to My GitHub Profile!
+### ✨ Welcome to My GitHub Profile! ✨
+
+<a href="https://taeholeekr.com" target="_blank">
+  <img src="https://img.shields.io/badge/My Blog-%231DA1F2.svg?&style=for-the-badge&logo=MyBlog&logoColor=white"/>
+</a>
 
 ---
 
@@ -45,6 +62,8 @@
 
 ---
 
+<div align="center">
+
 ### 🏢 MY ORGANIZATION
 
 - 👌 **발자국 프로젝트**: [FootStep](https://github.com/FootStepteam)  
@@ -53,3 +72,4 @@
 
 ---
 
+</div>
