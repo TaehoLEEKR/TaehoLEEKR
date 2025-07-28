@@ -64,6 +64,7 @@
 - 👌 **발자국 프로젝트**: [FootStep](https://github.com/FootStepteam/footstep_BE)
 - 👍 **연말 롤링페이퍼 프로젝트**: [DogoDogo](https://github.com/dogo-dogo/backend)  
 - 😁 **구름톤 (우수상)**: 팀 [Ire](https://9oormthon.goorm.io/793403f5-455f-4eae-967a-1891471d852c)
+- 😁 **공황장애 환자의 일상 회복을 위한 맞춤형 CBT 기반 디지털치료제**: 팀 [To:mate](https://github.com/kpsa-hackathon-2025-team12/kpsa-hackathon-2025-team12/tree/main/backend/kpsa-hack-12)
 
 ---
 
